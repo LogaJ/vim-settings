@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/l.jegede/workingtitle/work/test_e2e/features/step_definitions/e2e'
+let g:netrw_dirhist_2='/Users/l.jegede/workingtitle/work/test_e2e/lib'
+let g:netrw_dirhist_3='/Users/l.jegede/workingtitle/work/test_e2e/features/step_definitions/e2e'
+let g:netrw_dirhist_4='/Users/l.jegede/workingtitle/work/test_e2e/features/step_definitions'
+let g:netrw_dirhist_5='/Users/l.jegede/workingtitle/work/test_e2e/features'
+let g:netrw_dirhist_6='/Users/l.jegede/workingtitle/personal_development/rails_guides/blog'
